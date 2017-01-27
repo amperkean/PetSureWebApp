@@ -120,9 +120,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app\app.module.js" />
-    <Content Include="app\main.js" />
-    <Content Include="index.html" />
     <Content Include="Scripts\angular-mocks.js" />
     <Content Include="Scripts\angular.js" />
     <Content Include="Scripts\angular.min.js" />
